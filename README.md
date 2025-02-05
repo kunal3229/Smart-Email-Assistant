@@ -13,9 +13,8 @@ An AI-powered browser extension that automates email replies within Gmail, enhan
 
 - **Backend:** Spring Boot 3  
 - **AI Integration:** Gemini AI  
-- **Frontend:** Angular with Bootstrap  
-- **Authentication:** JWT Tokens  
-
+- **Frontend:** Angular with Bootstrap
+- 
 ## Installation
 
 1. **Clone the Repository:** Run `git clone https://github.com/yourusername/smart-email-assistant.git` to download the project locally.  
@@ -41,10 +40,6 @@ An AI-powered browser extension that automates email replies within Gmail, enhan
 4. **Make Changes and Commit:** Stage changes with `git add .`, commit them using `git commit -m "Add your commit message"`.  
 5. **Push to Your Fork:** Run `git push origin feature/your-feature-name`.  
 6. **Create a Pull Request:** Navigate to the original repository and click "New Pull Request."  
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more details.  
 
 ## Acknowledgments  
 
